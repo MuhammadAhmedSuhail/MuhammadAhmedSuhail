@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to My Data Science World! 🌍</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/MuhammadAhmedSuhail?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/MuhammadAhmedSuhail?style=social" alt="GitHub Stars" />
+<!--   <img src="https://img.shields.io/github/followers/MuhammadAhmedSuhail?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MuhammadAhmedSuhail?style=social" alt="GitHub Stars" /> -->
   <img src="https://komarev.com/ghpvc/?username=MuhammadAhmedSuhail" alt="Profile Views" />
 </p>
 

@@ -4,6 +4,17 @@
 <!--   <img src="https://img.shields.io/github/followers/MuhammadAhmedSuhail?style=social" alt="GitHub Followers" /> -->
   <img src="https://img.shields.io/github/stars/MuhammadAhmedSuhail?style=social" alt="GitHub Stars" />
   <img src="https://komarev.com/ghpvc/?username=MuhammadAhmedSuhail" alt="Profile Views" />
+  <div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-suhail/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammadahmedsuhail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://loquacious-kashata-1ffade.netlify.app/">
+    <img src="https://img.shields.io/badge/-Website-4F0599?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
 </p>
 
 ## About Me
@@ -54,15 +65,3 @@ Did you know that a well-known data scientist once said, "Data is the new oil, b
 I'm always eager to collaborate on exciting data projects or discuss the latest advancements in the field. Feel free to reach out to me via email or LinkedIn for any opportunities, queries, or just to say hello! 📬
 
 Looking forward to connecting with you! 🤝
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahmed-suhail/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muhammadahmedsuhail@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/-Website-4F0599?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</div>

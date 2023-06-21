@@ -1,14 +1,14 @@
 <h1 align="center">Welcome to My Data Science World! 🌍</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YourGitHubUsername?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/YourGitHubUsername?style=social" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MuhammadAhmedSuhail?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MuhammadAhmedSuhail?style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmedSuhail" alt="Profile Views" />
 </p>
 
 ## About Me
 
-Hello, fellow data enthusiasts! 😄 I'm **Your Name**, a passionate data scientist with a knack for turning complex data into valuable insights. In this ever-evolving world of data, I enjoy exploring trends, uncovering patterns, and solving challenging problems using cutting-edge techniques. My goal is to make data science accessible and impactful in various domains.
+Hello, fellow data enthusiasts! 😄 I'm **Muhammad Ahmed Suhail**, a passionate data scientist with a knack for turning complex data into valuable insights. In this ever-evolving world of data, I enjoy exploring trends, uncovering patterns, and solving challenging problems using cutting-edge techniques. My goal is to make data science accessible and impactful in various domains.
 
 ## Skills
 
@@ -32,13 +32,13 @@ Feel free to explore these repositories to get an idea of my work. Contributions
 ## Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername">
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-suhail/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:muhammadahmedsuhail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.yourwebsite.com">
+  <a href="">
     <img src="https://img.shields.io/badge/-Website-4F0599?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
@@ -59,7 +59,3 @@ Did you know that a well-known data scientist once said, "Data is the new oil, b
 I'm always eager to collaborate on exciting data projects or discuss the latest advancements in the field. Feel free to reach out to me via email or LinkedIn for any opportunities, queries, or just to say hello! 📬
 
 Looking forward to connecting with you! 🤝
-
-<p align="center">
-  <img src="https://media.giphy.com/media/GWn2DmT5UlC5K/giphy.gif" alt="GIF" />
-</p>

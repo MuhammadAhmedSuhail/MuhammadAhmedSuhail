@@ -55,7 +55,7 @@ Feel free to explore these repositories to get an idea of my work. Contributions
 ## Featured Articles
 
 - [Unleashing the Power of AI](https://medium.com/@muhammadahmedsuhail007/introduction-to-machine-learning-algorithms-unleashing-the-power-of-ai-e5486f82f5bc): Exploring the fundamental concepts of ML, diverse types of algorithms, and their practical applications.
-- [Article 2](https://www.yourwebsite.com/article2): A brief description of the article and its relevance.
+- [Unraveling the Magic of Natural Language Processing!](https://medium.com/@muhammadahmedsuhail007/unraveling-the-magic-of-natural-language-processing-f4ee0208287e): What is NLP?, Understanding the Basics and its Real Life Applications.
 
 Take a look at these featured articles where I share my insights and knowledge in the field of data science, Machine Leanring and AI.
 

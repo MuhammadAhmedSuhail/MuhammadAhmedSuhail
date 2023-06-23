@@ -8,13 +8,16 @@
   <a href="https://www.linkedin.com/in/muhammad-ahmed-suhail/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://loquacious-kashata-1ffade.netlify.app/MuhammadAhmedSuhail.pdf">
+  <a href="https://portfolio-muhammadahmedsuhail.vercel.app/MuhammadAhmedSuhail.pdf">
     <img src="https://img.shields.io/badge/Download%20my%20Resume-blue.svg" alt="Download" />
   </a>
   <a href="mailto:muhammadahmedsuhail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" />
   </a>
-  <a href="https://loquacious-kashata-1ffade.netlify.app/">
+  <a href="https://medium.com/@muhammadahmedsuhail007">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://portfolio-muhammadahmedsuhail.vercel.app/">
     <img src="https://img.shields.io/badge/-Website-4F0599?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>

@@ -58,6 +58,8 @@ Feel free to explore these repositories to get an idea of my work. Contributions
 
 - [Unleashing the Power of AI](https://medium.com/@muhammadahmedsuhail007/introduction-to-machine-learning-algorithms-unleashing-the-power-of-ai-e5486f82f5bc): Exploring the fundamental concepts of ML, diverse types of algorithms, and their practical applications.
 - [Unraveling the Magic of Natural Language Processing!](https://medium.com/@muhammadahmedsuhail007/unraveling-the-magic-of-natural-language-processing-f4ee0208287e): What is NLP?, Understanding the Basics and its Real Life Applications.
+- [Embracing Human AI Collaboration for the Future of Work](https://medium.com/@muhammadahmedsuhail007/embracing-human-ai-collaboration-for-the-future-of-work-52cbc62a0c8a): Concerns about job displacement, Positive aspects of this collaboration and the future of work.
+- [Guide to Building a Near Real-Time Data Warehouse Analysis Project](https://medium.com/@muhammadahmedsuhail007/guide-to-building-a-near-real-time-data-warehouse-analysis-project-bdd078257ea9): Designing, Implementing, and Analyzing a near-real-time Data Warehouse (DW) prototype for a Shopping Store.
 
 Take a look at these featured articles where I share my insights and knowledge in the field of data science, Machine Leanring and AI.
 

@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Data Science World! 🌍</h1>
+<h1 align="center">Welcome to My Data Science & Full Stack Development World! 🌍</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/MuhammadAhmedSuhail?style=social" alt="GitHub Stars" />
@@ -24,10 +24,11 @@
 
 ## About Me
 
-Hello, fellow data enthusiasts! 😄 I'm **Muhammad Ahmed Suhail**, a passionate data scientist with a knack for turning complex data into valuable insights. In this ever-evolving world of data, I enjoy exploring trends, uncovering patterns, and solving challenging problems using cutting-edge techniques. My goal is to make data science accessible and impactful in various domains.
+Hello, tech enthusiasts! 😄 I'm Muhammad Ahmed Suhail, a passionate data scientist and full-stack developer. I thrive on turning complex data into valuable insights and building scalable web applications. In this dynamic tech landscape, I'm driven by the desire to make data science accessible and to craft intuitive digital experiences.
 
 ## Skills
 
+### Data Science
 - **Data Analysis:** From cleaning and transforming data to performing exploratory analysis, I thrive on extracting meaningful information from diverse datasets.
 - **Machine Learning:** Applying various algorithms and models to train predictive models and make accurate predictions is one of my core strengths.
 - **Data Visualization:** Presenting data in a visually appealing and informative manner using charts, graphs, and interactive dashboards is my forte.
@@ -37,6 +38,13 @@ Hello, fellow data enthusiasts! 😄 I'm **Muhammad Ahmed Suhail**, a passionate
 - **Methodologies:** Machine Learning, Deep Learning, Data Mining, Natural Language Processing, Advanced Statistics, AI, Big Data Analytics, Exploratory Data Analysis, Data Preprocessing.
 - **Languages:** Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib), R (Dplyr, Ggplot2), SQL, C++, Java, JavaScript (React, Node, Express, Next), Typescript.
 - **Tools:** Jupyter Notebook, Tableau, Git, Flask, MS Excel, VS Code, R Studio, Eclipse, MongoDB.
+
+### Full Stack Web Development:
+- **Frontend:** Crafting responsive UIs with JavaScript, React, Next.js and TailwindCSS.
+- **Backend:** Building robust APIs using Node and Express.
+- **Database:** Managing data with MongoDB and SQL databases.
+- **Languages:** Proficient in JavaScript (React, Node, Express, Next), Typescript, C++, and Java.
+- **Tools:** VS Code, Git, Eclipse.
 
 ## Projects
 
@@ -65,10 +73,10 @@ Take a look at these featured articles where I share my insights and knowledge i
 
 ## Fun Fact
 
-Did you know that a well-known data scientist once said, "Data is the new oil, but it needs to be refined and processed to be truly valuable"? I strongly believe in this statement and strive to extract every drop of insight from the vast ocean of data. 💡🔍
+Did you know a well-known tech visionary once said, "Data is the new oil, but it needs to be refined and processed to be truly valuable"? Whether it's through data analysis or web development, I'm on a mission to extract every ounce of value from the digital realm. 💡🔍
 
 ## Get in Touch
 
-I'm always eager to collaborate on exciting data projects or discuss the latest advancements in the field. Feel free to reach out to me via email or LinkedIn for any opportunities, queries, or just to say hello! 📬
+Whether you're interested in data science, web development, or both, I'm always eager to collaborate and discuss the latest advancements. Reach out via email or LinkedIn for opportunities, queries, or just to chat! 📬
 
 Looking forward to connecting with you! 🤝

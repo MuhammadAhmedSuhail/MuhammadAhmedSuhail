@@ -50,13 +50,12 @@ Hello, tech enthusiasts! 😄 I'm Muhammad Ahmed Suhail, a passionate **data sci
 
 Check out some of my noteworthy projects:
 
-1. [Near Real-Time DataWarehouse Analysis](https://github.com/MuhammadAhmedSuhail/Near-Real-Time-DataWarehouse-Analysis): Developed a near-real-time Data Warehouse for a Shopping Store whose
-transactions totaled 10000,enabling real-time analysis of customer behavior and optimizing selling strategies through
-ETL tools and data enrichment.
-2. [Face Recognition Using KNN](https://github.com/MuhammadAhmedSuhail/Face-Recognition-using-KNN): Implemented a k-Nearest Neighbors (k-NN) classifier, SVM, and GaussianNB for face
-recognition, and then compared the results in a report. Performed PCA on the datasets and visualized the reduced
-datasets in a 3-D space
-3. [RUHA Voice Assistant](https://github.com/MuhammadAhmedSuhail/RUHA-Voice-Assistant): This project aims to train 5 classifiers on the RUHA audio dataset using scikit-learn. After evaluating their performance, a Flask web application will be created for users to interact with the trained classifiers, providing input and receiving creatively displayed predictions. Additionally, a result analytics page will showcase the performance of the classifiers on the dataset.
+1. **Lowerated** (In Progress): Developing a Platform for Music, Movie and Book fans where they can view ratings and join community 
+discussions. The tech stack being used is NextJs and TailwindCSS.
+3. [Digital Dunes](https://github.com/MuhammadAhmedSuhail/Digital-Dunes): A Digital Products Marketplace for selling Artwork, Ebooks, Courses using the MERN Stack (MongoDb, ExpressjS, React and NodeJS)
+4. [Nodejs-BMI](https://github.com/MuhammadAhmedSuhail/Nodejs-BMI): Added Nodejs for user authentication to the previously created project BMI Calculator
+   
+Check out my entire Web Development Portfolio [here](https://github.com/MuhammadAhmedSuhail/Web-Development-Portfolio).
 
 Feel free to explore these repositories to get an idea of my work. Contributions and feedback are always welcome! ⭐️
 

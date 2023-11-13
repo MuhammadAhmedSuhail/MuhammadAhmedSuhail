@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to My Data Science & Full Stack Development World! 🌍</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/MuhammadAhmedSuhail?style=social" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmedSuhail" alt="Profile Views" />
   <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-ahmed-suhail/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />

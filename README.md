@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a recent degr
 - **[Clashless TimeTable using AI](https://github.com/MuhammadAhmedSuhail/Clashless-TimeTable-using-AI):** Used Genetic Algorithm to generate clash-free timetables for courses and rooms.
 - **[WebScraping Ecommerce Website](https://github.com/MuhammadAhmedSuhail/WebScraping-Ecommerce-Website):** Developed a tool to scrape product data and reviews from Daraz.pk.
 
-TO view my entire Data Science/Machine Learning and AI portfolio visit [here](https://github.com/MuhammadAhmedSuhail/DataScience-AI-ML-Portfolio).
+To view my entire Data Science, Machine Learning and AI portfolio visit [here](https://github.com/MuhammadAhmedSuhail/DataScience-AI-ML-Portfolio).
 
 ### 🏆 Honors and Awards
 

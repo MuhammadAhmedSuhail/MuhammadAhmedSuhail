@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a recent degr
 **AID Lab, Islamabad** (Aug 2023 - May 2024)
 - Designed a voice assistant for monitoring mental and physical health.
 - Integrated features like workout and calorie tracking, anxiety and depression detection, and emotional state monitoring.
-- Finetuned BERT for emotion detection and utilized GenAI for mental health suggestions.
+- Finetuned BERT for emotion detection and utilized Generative AI and RAG for mental health suggestions.
 
 #### Natural Language Processing (NLP) Intern
 **AIMLAB, Islamabad** (Jul 2022 - Aug 2022)
@@ -45,12 +45,12 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a recent degr
 ### 🚀 Projects
 
 - **[RUHA Voice Assistant](https://github.com/MuhammadAhmedSuhail/RUHA-Voice-Assistant):** Developed a web application with Flask, featuring 5 classifiers for audio datasets, achieving 80% accuracy.
-- **[Kafka Machine Learning Classification App](https://github.com/MuhammadAhmedSuhail/Kafka-ML-Classification-App):** Implemented a pipeline for data collection, classification, and visualization from phone sensors.
-- **[Near Real-Time DataWarehouse Analysis](https://github.com/MuhammadAhmedSuhail/Real-Time-DataWarehouse):** Built a data warehouse for a shopping store with real-time customer behavior analysis.
-- **[Face Recognition Using KNN](https://github.com/MuhammadAhmedSuhail/Face-Recognition-KNN):** Compared k-NN, SVM, and GaussianNB for face recognition, including PCA and 3-D visualization.
-- **[EDA on Pakistan Floods](https://github.com/MuhammadAhmedSuhail/Pakistan-Flood-EDA):** Extracted insights and created visualizations using Selenium, Matplotlib, and Seaborn.
-- **[Clashless TimeTable using AI](https://github.com/MuhammadAhmedSuhail/Clashless-TimeTable):** Used Genetic Algorithm to generate clash-free timetables for courses and rooms.
-- **[WebScraping Ecommerce Website](https://github.com/MuhammadAhmedSuhail/WebScraping-Daraz):** Developed a tool to scrape product data and reviews from Daraz.pk.
+- **[Kafka Machine Learning Classification App](https://github.com/MuhammadAhmedSuhail/Kafka-ML_Classification-App):** Implemented a pipeline for data collection, classification, and visualization from phone sensors.
+- **[Near Real-Time DataWarehouse Analysis](https://github.com/MuhammadAhmedSuhail/Near-Real-Time-DataWarehouse-Analysis):** Built a data warehouse for a shopping store with real-time customer behavior analysis.
+- **[Face Recognition Using KNN](https://github.com/MuhammadAhmedSuhail/Face-Recognition-using-KNN):** Compared k-NN, SVM, and GaussianNB for face recognition, including PCA and 3-D visualization.
+- **[EDA on Pakistan Floods](https://github.com/MuhammadAhmedSuhail/EDA-on-Pakistan-Floods):** Extracted insights and created visualizations using Selenium, Matplotlib, and Seaborn.
+- **[Clashless TimeTable using AI](https://github.com/MuhammadAhmedSuhail/Clashless-TimeTable-using-AI):** Used Genetic Algorithm to generate clash-free timetables for courses and rooms.
+- **[WebScraping Ecommerce Website](https://github.com/MuhammadAhmedSuhail/WebScraping-Ecommerce-Website):** Developed a tool to scrape product data and reviews from Daraz.pk.
 
 TO view my entire Data Science/Machine Learning and AI portfolio visit [here](https://github.com/MuhammadAhmedSuhail/DataScience-AI-ML-Portfolio).
 
@@ -58,6 +58,6 @@ TO view my entire Data Science/Machine Learning and AI portfolio visit [here](ht
 
 - Third position in academic standings for the seventh semester.
 - Dean's List for sixth, seventh, and eighth semesters.
-- Founder of a successful data science blog attracting over 700 users per month.
+- Founder of a successful data science blog attracting over 850 users per month using SEO.
 
 Feel free to explore my repositories and connect with me on LinkedIn or via email. Let's collaborate and innovate together!

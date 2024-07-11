@@ -44,14 +44,11 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a recent degr
 
 ### 🚀 Projects
 
-- **[RUHA Voice Assistant](https://github.com/MuhammadAhmedSuhail/RUHA-Voice-Assistant):** Developed a web application with Flask, featuring 5 classifiers for audio datasets, achieving 80% accuracy.
-- **[Kafka Machine Learning Classification App](https://github.com/MuhammadAhmedSuhail/Kafka-ML_Classification-App):** Implemented a pipeline for data collection, classification, and visualization from phone sensors.
 - **[Near Real-Time DataWarehouse Analysis](https://github.com/MuhammadAhmedSuhail/Near-Real-Time-DataWarehouse-Analysis):** Built a data warehouse for a shopping store with real-time customer behavior analysis.
-- **[Face Recognition Using KNN](https://github.com/MuhammadAhmedSuhail/Face-Recognition-using-KNN):** Compared k-NN, SVM, and GaussianNB for face recognition, including PCA and 3-D visualization.
 - **[EDA on Pakistan Floods](https://github.com/MuhammadAhmedSuhail/EDA-on-Pakistan-Floods):** Extracted insights and created visualizations using Selenium, Matplotlib, and Seaborn.
-- **[Clashless TimeTable using AI](https://github.com/MuhammadAhmedSuhail/Clashless-TimeTable-using-AI):** Used Genetic Algorithm to generate clash-free timetables for courses and rooms.
-- **[WebScraping Ecommerce Website](https://github.com/MuhammadAhmedSuhail/WebScraping-Ecommerce-Website):** Developed a tool to scrape product data and reviews from Daraz.pk.
-
+- **[Sales Automation Assist](https://github.com/MuhammadAhmedSuhail/Sales_Automation_Assist):** Developed Sales Automation Assist, an automated solution enhancing sales efficiency using Python. Implemented the Opener Agent to generate personalized cold opening emails and track interactions, and the Escalator Agent to handle lead responses and determine follow-up actions. Utilized LangChain, llama-index, and OpenAI APIs to optimize sales processes.
+- **[LegalEase](https://github.com/MuhammadAhmedSuhail/LegalEaseApp):** LegalEase is a platform designed to simplify the understanding of legal rights under Pakistani law, addressing the issue of legal illiteracy. It leverages advanced natural language processing (using Mistral) and secure data storage (Firebase Firestore) to provide clear and accessible legal information to the public. Promoted on LinkedIn, LegalEase quickly gained traction and received positive feedback for its impactful approach to improving legal awareness and accessibility.
+  
 To view my entire Data Science, Machine Learning and AI portfolio visit [here](https://github.com/MuhammadAhmedSuhail/DataScience-AI-ML-Portfolio).
 
 ### 🏆 Honors and Awards

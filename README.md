@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a degree in D
 
 ### Machine Learning Engineer Intern
 **TensorLabs** (March 2025 - July 2025)
-- Developed a **cryptocurrency sentiment analysis** system scraping 10,000+ daily tweets across 15+ coins, correlating with real-time market data using weighted algorithms to identify 10+ **credible handles** (**FastAPI** + **MongoDB**)
+- Developed a **cryptocurrency sentiment analysis** system scraping 10,000+ daily tweets across 15+ coins, correlating with real-time market data using weighted algorithms to identify 10+ **credible handles** (**FastAPI** + **MongoDB**) | [Repo](https://github.com/MuhammadAhmedSuhail/crypto_tweets_analysis)
 - Built an **agentic network** using **Google ADK Agents** for pair programming and **automated feature creation**, processing 50+ code files with **Qdrant** vector embeddings and **FastAPI-Streamlit** interface | [View Demo](https://vimeo.com/1151879170/5cc5a7c483?share=copy&fl=sv&fe=ci)
 
 ### Freelance Machine Learning Engineer

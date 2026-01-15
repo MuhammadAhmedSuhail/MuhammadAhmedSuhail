@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a degree in D
 
 - **Location:** Islamabad, Pakistan
 - **Email:** [muhammadahmedsuhail@gmail.com](mailto:muhammadahmedsuhail@gmail.com)
-- **Portfolio Website:** [Website](https://muhammadahmedsuhail.vercel.app/)
+- **Portfolio Website:** [muhammadahmedsuhail.vercel.app](https://muhammadahmedsuhail.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/muhammad-ahmed-suhail](https://www.linkedin.com/in/muhammad-ahmed-suhail/)
 - **Medium:** [medium.com/@muhammadahmedsuhail007](https://medium.com/@muhammadahmedsuhail007)
 - **Education:** Bachelor of Data Science, FAST-NUCES (2020-2024) 
@@ -29,13 +29,13 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a degree in D
 ### Machine Learning Engineer Intern
 **TensorLabs** (March 2025 - July 2025)
 - Developed a cryptocurrency sentiment analysis system scraping 10,000+ daily tweets across 15+ coins, correlating with real-time market data using weighted algorithms to identify 10+ credible handles (FastAPI + MongoDB)
-- Built an agentic network using Google ADK Agents for pair programming and automated feature creation, processing 50+ code files with Qdrant vector embeddings and FastAPI-Streamlit interface [Demo](https://vimeo.com/1151879170/5cc5a7c483?share=copy&fl=sv&fe=ci)
+- Built an agentic network using Google ADK Agents for pair programming and automated feature creation, processing 50+ code files with Qdrant vector embeddings and FastAPI-Streamlit interface | [View Demo](https://vimeo.com/1151879170/5cc5a7c483?share=copy&fl=sv&fe=ci)
 
 ### Freelance Machine Learning Engineer
 **Self-Employed** (Sep 2024 - Feb 2025)
 - Developed Sales Automation Assist with LangChain and Gemini, automating 200+ lead outreach achieving 35% response rate through Opener and Escalator Agents for personalized emails and intelligent follow-ups
 - Built LegalEase, a Pakistan legal Q&A bot using Streamlit, Firebase, and OpenRouter, serving 500+ queries with 90% accuracy
-- Created an AI E-commerce Chatbot with NextJS, FastAPI, and Qdrant handling 1,000+ monthly interactions for order tracking, product Q&A, and complaints, reducing support workload by 40%
+- Created an AI E-commerce Chatbot with NextJS, FastAPI, and Qdrant handling 1,000+ monthly interactions for order tracking, product Q&A, and complaints, reducing support workload by 40% | [Live on menigma.pk](https://menigma.pk/)
 
 ### Machine Learning Engineer Intern
 **AID Lab, Islamabad** (Aug 2023 - May 2024)
@@ -45,13 +45,15 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a degree in D
 
 ## 🚀 Featured Projects
 
-- **AI-Based Resume Screening System [Demo](https://vimeo.com/1151876126/725c0dee86?share=copy&fl=sv&fe=ci):** Built a shortlisting app capable of processing 1,000+ resumes with semantic resume analysis via OpenRouter LLMs, storing vector embeddings in Qdrant and filtering with experience-weighted skill extraction using Python.
+- **AI-Based Resume Screening System:** Built a shortlisting app capable of processing 1,000+ resumes with semantic resume analysis via OpenRouter LLMs, storing vector embeddings in Qdrant and filtering with experience-weighted skill extraction using Python | [View Demo](https://vimeo.com/1151876126/725c0dee86?share=copy&fl=sv&fe=ci)
 
-- **[Sales Automation Assist](https://github.com/DatumDive/Sales_Automation_Assistant):** Automated solution for enhancing sales efficiency using LangChain, llama-index, and Gemini. Features Opener Agent for personalized cold emails and Escalator Agent for lead response handling.
+- **[Sales Automation Assist](https://github.com/DatumDive/Sales_Automation_Assistant):** Automated solution for enhancing sales efficiency using LangChain, llama-index, and Gemini. Features Opener Agent for personalized cold emails and Escalator Agent for lead response handling
 
-- **[Near Real-Time DataWarehouse Analysis](https://github.com/MuhammadAhmedSuhail/Near-Real-Time-DataWarehouse-Analysis):** Developed a near-real-time Data Warehouse for a Shopping Store with transactions totaling over 10,000 and optimized selling strategies using ETL.
+- **[Near Real-Time DataWarehouse Analysis](https://github.com/MuhammadAhmedSuhail/Near-Real-Time-DataWarehouse-Analysis):** Developed a near-real-time Data Warehouse for a Shopping Store with transactions totaling over 10,000 and optimized selling strategies using ETL
 
-- **[LegalEase](https://github.com/DatumDive/LegalEaseApp):** Platform simplifying legal rights understanding under Pakistani law using Mistral NLP and Firebase Firestore, addressing legal illiteracy with accessible information.
+- **[LegalEase](https://github.com/DatumDive/LegalEaseApp):** Platform simplifying legal rights understanding under Pakistani law using Mistral NLP and Firebase Firestore, addressing legal illiteracy with accessible information
+
+- **[AI E-commerce Chatbot](https://menigma.pk/):** Live production chatbot built with NextJS, FastAPI, and Qdrant for Menigma, an e-commerce platform, handling order tracking, product inquiries, and customer support
 
 To view my entire Data Science, Machine Learning and AI portfolio visit [here](https://github.com/MuhammadAhmedSuhail/DataScience-AI-ML-Portfolio).
 

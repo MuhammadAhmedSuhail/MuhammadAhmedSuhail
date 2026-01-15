@@ -28,18 +28,18 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a degree in D
 
 ### Machine Learning Engineer Intern
 **TensorLabs** (March 2025 - July 2025)
-- Developed a cryptocurrency sentiment analysis system scraping 10,000+ daily tweets across 15+ coins, correlating with real-time market data using weighted algorithms to identify 10+ **credible handles** (**FastAPI** + **MongoDB**)
-- Built an agentic network using **Google ADK Agents** for pair programming and **automated feature creation**, processing 50+ code files with **Qdrant** vector embeddings and **FastAPI-Streamlit** interface | [View Demo](https://vimeo.com/1151879170/5cc5a7c483?share=copy&fl=sv&fe=ci)
+- Developed a **cryptocurrency sentiment analysis** system scraping 10,000+ daily tweets across 15+ coins, correlating with real-time market data using weighted algorithms to identify 10+ **credible handles** (**FastAPI** + **MongoDB**)
+- Built an **agentic network** using **Google ADK Agents** for pair programming and **automated feature creation**, processing 50+ code files with **Qdrant** vector embeddings and **FastAPI-Streamlit** interface | [View Demo](https://vimeo.com/1151879170/5cc5a7c483?share=copy&fl=sv&fe=ci)
 
 ### Freelance Machine Learning Engineer
 **Self-Employed** (Sep 2024 - Feb 2025)
-- Developed Sales Automation Assist with LangChain and Gemini, **automating 200+ lead outreach** achieving 35% response rate through Opener and Escalator Agents for personalized emails and intelligent follow-ups | [Repo](https://github.com/DatumDive/Sales_Automation_Assistant)
+- Developed **Sales Automation Assist** with LangChain and Gemini, **automating 200+ lead outreach** achieving 35% response rate through Opener and Escalator Agents for personalized emails and intelligent follow-ups | [Repo](https://github.com/DatumDive/Sales_Automation_Assistant)
 - Built LegalEase, a Pakistan legal Q&A bot using Streamlit, Firebase, and OpenRouter, **serving 500+ queries** with 90% accuracy
-- Created an AI E-commerce Chatbot with **NextJS**, **FastAPI**, and **Qdrant** handling **1,000+ monthly interactions** for order tracking, product Q&A, and complaints, reducing support workload by 40% | [Live on menigma.pk](https://menigma.pk/)
+- Created an **AI E-commerce Chatbot** with **NextJS**, **FastAPI**, and **Qdrant** handling **1,000+ monthly interactions** for order tracking, product Q&A, and complaints, reducing support workload by 40% | [Live on menigma.pk](https://menigma.pk/)
 
 ### Machine Learning Engineer Intern
 **AID Lab, Islamabad** (Aug 2023 - May 2024)
-- Designed a voice assistant for FYP enabling workout/calorie tracking, anxiety/depression detection, and emotional monitoring, **processing 100+ interactions** with 70% accuracy
+- Designed **a voice assistant** for FYP enabling workout/calorie tracking, anxiety/depression detection, and emotional monitoring, **processing 100+ interactions** with 70% accuracy
 - Finetuned BERT model **using LoRA** achieving 81% accuracy across 7 emotion categories, utilized **GenAI and RAG** for mental health suggestions
 - Performed **NER** for workout/calorie tracking
 
